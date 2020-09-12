@@ -1,0 +1,10 @@
+C:\Users\lukej\Downloads\LearningCSharp\LearningCSharp\obj\Debug\netcoreapp3.1\LearningCSharp.AssemblyInfoInputs.cache
+C:\Users\lukej\Downloads\LearningCSharp\LearningCSharp\obj\Debug\netcoreapp3.1\LearningCSharp.AssemblyInfo.cs
+C:\Users\lukej\Downloads\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp3.1\StrategyPattern.exe
+C:\Users\lukej\Downloads\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp3.1\StrategyPattern.deps.json
+C:\Users\lukej\Downloads\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp3.1\StrategyPattern.runtimeconfig.json
+C:\Users\lukej\Downloads\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp3.1\StrategyPattern.runtimeconfig.dev.json
+C:\Users\lukej\Downloads\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp3.1\StrategyPattern.dll
+C:\Users\lukej\Downloads\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp3.1\StrategyPattern.pdb
+C:\Users\lukej\Downloads\LearningCSharp\LearningCSharp\obj\Debug\netcoreapp3.1\StrategyPattern.dll
+C:\Users\lukej\Downloads\LearningCSharp\LearningCSharp\obj\Debug\netcoreapp3.1\StrategyPattern.pdb
